@@ -1,0 +1,8 @@
+/Users/aditya/Desktop/CSharp101/bin/Debug/netcoreapp1.1/CSharp101.deps.json
+/Users/aditya/Desktop/CSharp101/bin/Debug/netcoreapp1.1/CSharp101.runtimeconfig.json
+/Users/aditya/Desktop/CSharp101/bin/Debug/netcoreapp1.1/CSharp101.runtimeconfig.dev.json
+/Users/aditya/Desktop/CSharp101/bin/Debug/netcoreapp1.1/CSharp101.dll
+/Users/aditya/Desktop/CSharp101/bin/Debug/netcoreapp1.1/CSharp101.pdb
+/Users/aditya/Desktop/CSharp101/obj/Debug/netcoreapp1.1/CSharp101.AssemblyInfo.cs
+/Users/aditya/Desktop/CSharp101/obj/Debug/netcoreapp1.1/CSharp101.dll
+/Users/aditya/Desktop/CSharp101/obj/Debug/netcoreapp1.1/CSharp101.pdb
