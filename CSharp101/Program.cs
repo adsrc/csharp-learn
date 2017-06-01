@@ -15,9 +15,10 @@ namespace CSharp101
             String State;
             int Pin;
             String country;
-
             FirstName = "Aditya";
+            //FirstName = Console.ReadLine();
             Console.WriteLine(FirstName);
+            
 
         }
     }

@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aditya/Desktop/CSharplearn/CSharp101/CSharp101.csproj",
-      "projectName": "CSharp101",
-      "projectPath": "/Users/aditya/Desktop/CSharplearn/CSharp101/CSharp101.csproj",
-      "outputPath": "/Users/aditya/Desktop/CSharplearn/CSharp101/obj/",
+      "projectUniqueName": "/Users/aditya/Desktop/CSharplearn/CSharp102/CSharp102.csproj",
+      "projectName": "CSharp102",
+      "projectPath": "/Users/aditya/Desktop/CSharplearn/CSharp102/CSharp102.csproj",
+      "outputPath": "/Users/aditya/Desktop/CSharplearn/CSharp102/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/CSharp101.dll": "/Users/aditya/Desktop/CSharplearn/CSharp101/bin/placeholder/netcoreapp1.1/CSharp101.dll"
+        "lib/netcoreapp1.1/CSharp102.dll": "/Users/aditya/Desktop/CSharplearn/CSharp102/bin/placeholder/netcoreapp1.1/CSharp102.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

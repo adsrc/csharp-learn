@@ -1,0 +1,8 @@
+/Users/aditya/Desktop/CSharplearn/CSharp102/bin/Debug/netcoreapp1.1/CSharp102.deps.json
+/Users/aditya/Desktop/CSharplearn/CSharp102/bin/Debug/netcoreapp1.1/CSharp102.runtimeconfig.json
+/Users/aditya/Desktop/CSharplearn/CSharp102/bin/Debug/netcoreapp1.1/CSharp102.runtimeconfig.dev.json
+/Users/aditya/Desktop/CSharplearn/CSharp102/obj/Debug/netcoreapp1.1/CSharp102.AssemblyInfo.cs
+/Users/aditya/Desktop/CSharplearn/CSharp102/bin/Debug/netcoreapp1.1/CSharp102.dll
+/Users/aditya/Desktop/CSharplearn/CSharp102/bin/Debug/netcoreapp1.1/CSharp102.pdb
+/Users/aditya/Desktop/CSharplearn/CSharp102/obj/Debug/netcoreapp1.1/CSharp102.dll
+/Users/aditya/Desktop/CSharplearn/CSharp102/obj/Debug/netcoreapp1.1/CSharp102.pdb
