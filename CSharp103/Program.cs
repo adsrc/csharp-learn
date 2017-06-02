@@ -18,7 +18,9 @@ namespace CSharp103
             Console.WriteLine("Hello World!");
 	    multiReturn(out k,out l);
 	    Console.WriteLine("{0},{1}",k.ToString(),l.ToString());
-
+		
+	    // I don't understand how "out" scores over "ref"
+	    // when variable needs to be declared in either case
         }
     }
 }
