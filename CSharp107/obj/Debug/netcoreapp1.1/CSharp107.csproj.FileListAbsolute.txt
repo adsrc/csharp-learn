@@ -1,0 +1,8 @@
+/Users/eragon/Desktop/CSharplearn/CSharp107/bin/Debug/netcoreapp1.1/CSharp107.deps.json
+/Users/eragon/Desktop/CSharplearn/CSharp107/bin/Debug/netcoreapp1.1/CSharp107.runtimeconfig.json
+/Users/eragon/Desktop/CSharplearn/CSharp107/bin/Debug/netcoreapp1.1/CSharp107.runtimeconfig.dev.json
+/Users/eragon/Desktop/CSharplearn/CSharp107/bin/Debug/netcoreapp1.1/CSharp107.dll
+/Users/eragon/Desktop/CSharplearn/CSharp107/bin/Debug/netcoreapp1.1/CSharp107.pdb
+/Users/eragon/Desktop/CSharplearn/CSharp107/obj/Debug/netcoreapp1.1/CSharp107.AssemblyInfo.cs
+/Users/eragon/Desktop/CSharplearn/CSharp107/obj/Debug/netcoreapp1.1/CSharp107.dll
+/Users/eragon/Desktop/CSharplearn/CSharp107/obj/Debug/netcoreapp1.1/CSharp107.pdb
