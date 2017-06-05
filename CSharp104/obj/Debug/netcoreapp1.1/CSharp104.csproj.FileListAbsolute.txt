@@ -1,0 +1,4 @@
+/Users/eragon/Desktop/CSharplearn/CSharp104/bin/Debug/netcoreapp1.1/CSharp104.deps.json
+/Users/eragon/Desktop/CSharplearn/CSharp104/bin/Debug/netcoreapp1.1/CSharp104.runtimeconfig.json
+/Users/eragon/Desktop/CSharplearn/CSharp104/bin/Debug/netcoreapp1.1/CSharp104.runtimeconfig.dev.json
+/Users/eragon/Desktop/CSharplearn/CSharp104/obj/Debug/netcoreapp1.1/CSharp104.AssemblyInfo.cs
